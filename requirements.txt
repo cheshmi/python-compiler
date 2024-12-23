@@ -1,3 +1,5 @@
 numba
 numpy
 graphviz
+# Additional dependencies
+ast
